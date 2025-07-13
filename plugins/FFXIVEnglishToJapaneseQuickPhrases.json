@@ -1,0 +1,28 @@
+{
+  "Author": "Apoc",
+  "Name": "English to Japanese Quick Phrases",
+  "Punchline": "Quick access to categorized English-Japanese phrase translations.",
+  "Description": "[WIP] Browse categorized English-Japanese phrases and copy translations to clipboard. Features auto-translation of Japanese chat to English. Use /translate to open.",
+  "InternalName": "FFXIVEnglishToJapaneseQuickPhrases",
+  "RepoUrl": "https://github.com/apoclol/ffxiv-en-jp-translator",
+  "ApplicableVersion": "any",
+  "CategoryTags": [
+    "translation",
+    "japanese",
+    "chat",
+    "communication"
+  ],
+  "DalamudApiLevel": 12,
+  "Changelog": "Initial commit",
+  "DownloadLinkInstall": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "DownloadLinkTesting": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "DownloadLinkUpdate": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "AssemblyVersion": "1.0.0.0",
+  "TestingAssemblyVersion": "1.0.0.0",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadCount": 0,
+  "LastUpdate": "1736784000",
+  "IconUrl": "",
+  "ImageUrls": [""]
+}
