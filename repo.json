@@ -13,18 +13,18 @@
       "chat",
       "communication"
     ],
-    "DalamudApiLevel": 12,
-    "Changelog": "Initial commit",
+    "DalamudApiLevel": 13,
+    "Changelog": "Fixed multi-phrase translation (円 舞 → \"Circle\" \"Dance\"), added plugin icons, improved HUD button",
     "DownloadLinkInstall": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
     "DownloadLinkTesting": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
     "DownloadLinkUpdate": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
+    "TestingAssemblyVersion": "1.1.0.0",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": "1736784000",
-    "IconUrl": "",
-    "ImageUrls": [""]
+    "LastUpdate": "1754812010",
+    "IconUrl": "https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true",
+    "ImageUrls": ["https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true"]
   }
 ]
