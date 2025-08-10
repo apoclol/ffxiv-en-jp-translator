@@ -1,6 +1,6 @@
 # English to Japanese Quick Phrases
 
-> **⚠️ Work in Progress**: This plugin is still in very early development. Features may change and bugs may be present. Phrases are quite limited and only work with exact strings(punctuation ignored.)
+> **⚠️ Work in Progress**: This plugin is still in very early development. Features may change and bugs may be present. Phrases are quite limited and ~~only work with exact strings~~ now work with multiple known phrases.
 
 A Dalamud plugin for Final Fantasy XIV that helps bridge the language barrier between English and Japanese players by providing instant translation of common game phrases.
 
