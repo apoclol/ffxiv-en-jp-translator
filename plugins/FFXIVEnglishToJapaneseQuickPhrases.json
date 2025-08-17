@@ -1,11 +1,11 @@
 {
   "Author": "Apoc",
   "Name": "English to Japanese Quick Phrases",
-  "InternalName": "FFXIVEnglishToJapaneseQuickPhrases",
-  "AssemblyVersion": "1.1.0.0",
+  "Punchline": "Quick access to categorized English-Japanese phrase translations.",
   "Description": "Browse categorized English-Japanese phrases and copy translations to clipboard. Features auto-translation of Japanese chat to English with configurable HUD button. Use /translate to open.",
-  "ApplicableVersion": "any",
+  "InternalName": "FFXIVEnglishToJapaneseQuickPhrases",
   "RepoUrl": "https://github.com/apoclol/ffxiv-en-jp-translator",
+  "ApplicableVersion": "any",
   "CategoryTags": [
     "translation",
     "japanese",
@@ -13,15 +13,16 @@
     "communication"
   ],
   "DalamudApiLevel": 13,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "ImageUrls": [
-    "https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true"
-  ],
+  "Changelog": "Fixed HUD button showing up on the main menu and character screen.",
+  "DownloadLinkInstall": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "DownloadLinkTesting": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "DownloadLinkUpdate": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
+  "AssemblyVersion": "1.1.1.0",
+  "TestingAssemblyVersion": "1.1.1.0",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadCount": 0,
+  "LastUpdate": "1736784000",
   "IconUrl": "https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true",
-  "Punchline": "Quick access to categorized English-Japanese phrase translations.",
-  "Changelog": "Fixed multi-phrase translation (円 舞 → \"Circle\" \"Dance\"), added plugin icons, improved HUD button",
-  "AcceptsFeedback": true
+  "ImageUrls": ["https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true"]
 }
