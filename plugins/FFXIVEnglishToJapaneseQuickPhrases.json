@@ -17,12 +17,12 @@
   "DownloadLinkInstall": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
   "DownloadLinkTesting": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
   "DownloadLinkUpdate": "https://github.com/apoclol/ffxiv-en-jp-translator/releases/latest/download/FFXIVEnglishToJapaneseQuickPhrases.zip",
-  "AssemblyVersion": "1.1.1.0",
-  "TestingAssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.1.2.0",
+  "TestingAssemblyVersion": "1.1.2.0",
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadCount": 0,
-  "LastUpdate": "1755405767",
+  "LastUpdate": "1755406332",
   "IconUrl": "https://github.com/apoclol/ffxiv-en-jp-translator/blob/main/icon.png?raw=true",
   "ImageUrls": []
 }
